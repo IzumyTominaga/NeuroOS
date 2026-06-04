@@ -1,0 +1,18 @@
+# Build outputs
+*.o
+*.bin
+*.iso
+iso/
+
+# Runtime logs and emulator traces
+*.log
+qemu.log
+
+# Local backups and editor leftovers
+*.tar.gz
+*.save
+*~
+
+# Tool/editor metadata
+.vscode/
+.idea/
