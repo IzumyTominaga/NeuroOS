@@ -9,6 +9,7 @@ iso/
 qemu.log
 
 # Local backups and editor leftovers
+contexto.txt
 *.tar.gz
 *.save
 *~
